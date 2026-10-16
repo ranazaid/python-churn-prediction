@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+output/
+*.db
+*.sqlite3
+!**/migrations/*.py
+
+# Node
+node_modules/
+
+# PHP
+backend/php-tasks-api/storage/
+
+# Android
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+# OS
+.DS_Store
